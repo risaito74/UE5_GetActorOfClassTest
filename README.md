@@ -1,0 +1,2 @@
+# UE5_GetActorOfClassTest
+GetActorOfClassテスト（WBP_GameUIをBP_Cube1、BP_Cube2が参照する感じのやつ）
